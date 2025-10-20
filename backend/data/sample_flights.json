@@ -1,0 +1,185 @@
+{
+  "flights": [
+    {
+      "route": { "from": "LHE", "to": "BKK" },
+      "airline": "Pakistan International Airlines",
+      "flightDate": "2026-01-15T00:00:00.000Z",
+      "departureTime": "02:30",
+      "arrivalTime": "10:45",
+      "duration": "4h 15m",
+      "aircraft": "Boeing 777",
+      "class": "Economy",
+      "trackingStartDate": "2025-07-15T00:00:00.000Z",
+      "trackingInterval": "1day"
+    },
+    {
+      "route": { "from": "SIN", "to": "BKK" },
+      "airline": "Singapore Airlines",
+      "flightDate": "2026-02-20T00:00:00.000Z",
+      "departureTime": "14:20",
+      "arrivalTime": "15:50",
+      "duration": "1h 30m",
+      "aircraft": "Airbus A350",
+      "class": "Economy",
+      "trackingStartDate": "2025-08-20T00:00:00.000Z",
+      "trackingInterval": "1day"
+    },
+    {
+      "route": { "from": "JED", "to": "LHE" },
+      "airline": "Saudia",
+      "flightDate": "2026-03-10T00:00:00.000Z",
+      "departureTime": "08:15",
+      "arrivalTime": "14:30",
+      "duration": "4h 15m",
+      "aircraft": "Boeing 787",
+      "class": "Economy",
+      "trackingStartDate": "2025-09-10T00:00:00.000Z",
+      "trackingInterval": "1day"
+    },
+    {
+      "route": { "from": "DXB", "to": "LHR" },
+      "airline": "Emirates",
+      "flightDate": "2026-04-05T00:00:00.000Z",
+      "departureTime": "22:30",
+      "arrivalTime": "06:45",
+      "duration": "7h 15m",
+      "aircraft": "Airbus A380",
+      "class": "Economy",
+      "trackingStartDate": "2025-10-05T00:00:00.000Z",
+      "trackingInterval": "1day"
+    },
+    {
+      "route": { "from": "KHI", "to": "DXB" },
+      "airline": "Pakistan International Airlines",
+      "flightDate": "2026-05-12T00:00:00.000Z",
+      "departureTime": "16:45",
+      "arrivalTime": "19:20",
+      "duration": "2h 35m",
+      "aircraft": "Airbus A320",
+      "class": "Economy",
+      "trackingStartDate": "2025-11-12T00:00:00.000Z",
+      "trackingInterval": "1day"
+    },
+    {
+      "route": { "from": "ISB", "to": "KUL" },
+      "airline": "Malaysia Airlines",
+      "flightDate": "2026-06-18T00:00:00.000Z",
+      "departureTime": "01:30",
+      "arrivalTime": "10:15",
+      "duration": "5h 45m",
+      "aircraft": "Boeing 737",
+      "class": "Economy",
+      "trackingStartDate": "2025-12-18T00:00:00.000Z",
+      "trackingInterval": "1day"
+    },
+    {
+      "route": { "from": "BKK", "to": "NRT" },
+      "airline": "Thai Airways",
+      "flightDate": "2026-07-25T00:00:00.000Z",
+      "departureTime": "09:15",
+      "arrivalTime": "16:30",
+      "duration": "5h 15m",
+      "aircraft": "Boeing 777",
+      "class": "Economy",
+      "trackingStartDate": "2026-01-25T00:00:00.000Z",
+      "trackingInterval": "1day"
+    },
+    {
+      "route": { "from": "LHE", "to": "JED" },
+      "airline": "Saudia",
+      "flightDate": "2026-08-30T00:00:00.000Z",
+      "departureTime": "12:00",
+      "arrivalTime": "16:15",
+      "duration": "4h 15m",
+      "aircraft": "Boeing 787",
+      "class": "Economy",
+      "trackingStartDate": "2026-02-28T00:00:00.000Z",
+      "trackingInterval": "1day"
+    },
+    {
+      "route": { "from": "SIN", "to": "SYD" },
+      "airline": "Singapore Airlines",
+      "flightDate": "2026-09-14T00:00:00.000Z",
+      "departureTime": "23:55",
+      "arrivalTime": "09:30",
+      "duration": "7h 35m",
+      "aircraft": "Airbus A350",
+      "class": "Economy",
+      "trackingStartDate": "2026-03-14T00:00:00.000Z",
+      "trackingInterval": "1day"
+    },
+    {
+      "route": { "from": "DXB", "to": "CDG" },
+      "airline": "Emirates",
+      "flightDate": "2026-10-22T00:00:00.000Z",
+      "departureTime": "14:20",
+      "arrivalTime": "19:45",
+      "duration": "7h 25m",
+      "aircraft": "Airbus A380",
+      "class": "Economy",
+      "trackingStartDate": "2026-04-22T00:00:00.000Z",
+      "trackingInterval": "1day"
+    }
+  ],
+  "trackingRules": [
+    {
+      "route": { "from": "LHE", "to": "BKK" },
+      "airline": "Pakistan International Airlines",
+      "trackingStartMonths": 6,
+      "trackingInterval": "1day",
+      "priceThreshold": { "min": 400, "max": 800 }
+    },
+    {
+      "route": { "from": "SIN", "to": "BKK" },
+      "airline": "Singapore Airlines",
+      "trackingStartMonths": 3,
+      "trackingInterval": "1day",
+      "priceThreshold": { "min": 200, "max": 500 }
+    },
+    {
+      "route": { "from": "DXB", "to": "LHR" },
+      "airline": "Emirates",
+      "trackingStartMonths": 6,
+      "trackingInterval": "1day",
+      "priceThreshold": { "min": 600, "max": 1200 }
+    }
+  ],
+  "samplePriceHistory": [
+    {
+      "route": "LHE-BKK",
+      "date": "2025-10-15",
+      "price": 670,
+      "currency": "USD"
+    },
+    {
+      "route": "LHE-BKK",
+      "date": "2025-11-01",
+      "price": 678,
+      "currency": "USD"
+    },
+    {
+      "route": "LHE-BKK",
+      "date": "2025-11-15",
+      "price": 712,
+      "currency": "USD"
+    },
+    {
+      "route": "SIN-BKK",
+      "date": "2025-10-15",
+      "price": 185,
+      "currency": "USD"
+    },
+    {
+      "route": "SIN-BKK",
+      "date": "2025-11-01",
+      "price": 192,
+      "currency": "USD"
+    },
+    {
+      "route": "SIN-BKK",
+      "date": "2025-11-15",
+      "price": 198,
+      "currency": "USD"
+    }
+  ]
+}

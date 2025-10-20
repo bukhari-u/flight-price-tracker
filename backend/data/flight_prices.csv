@@ -1,0 +1,131 @@
+route,airline,flight_date,departure_time,arrival_time,duration,aircraft,class,price,currency,date_tracked,source
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,620,USD,2025-07-15,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,625,USD,2025-07-29,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,632,USD,2025-08-12,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,640,USD,2025-08-26,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,648,USD,2025-09-09,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,655,USD,2025-09-23,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,662,USD,2025-10-07,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,670,USD,2025-10-21,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,678,USD,2025-11-04,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,689,USD,2025-11-18,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,702,USD,2025-12-02,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,710,USD,2025-12-16,csv
+LHE-BKK,Pakistan International Airlines,2026-01-15,02:30,10:45,4h 15m,Boeing 777,Economy,720,USD,2025-12-30,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,180,USD,2025-08-20,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,182,USD,2025-09-03,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,185,USD,2025-09-17,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,187,USD,2025-10-01,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,190,USD,2025-10-15,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,192,USD,2025-10-29,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,195,USD,2025-11-12,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,197,USD,2025-11-26,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,200,USD,2025-12-10,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,202,USD,2025-12-24,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,205,USD,2026-01-07,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,208,USD,2026-01-21,csv
+SIN-BKK,Singapore Airlines,2026-02-20,14:20,15:50,1h 30m,Airbus A350,Economy,210,USD,2026-02-04,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,620,USD,2025-09-10,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,625,USD,2025-09-24,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,630,USD,2025-10-08,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,635,USD,2025-10-22,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,640,USD,2025-11-05,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,646,USD,2025-11-19,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,652,USD,2025-12-03,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,660,USD,2025-12-17,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,668,USD,2025-12-31,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,675,USD,2026-01-14,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,682,USD,2026-01-28,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,690,USD,2026-02-11,csv
+JED-LHE,Saudia,2026-03-10,08:15,14:30,4h 15m,Boeing 787,Economy,698,USD,2026-02-25,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,800,USD,2025-10-05,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,805,USD,2025-10-19,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,812,USD,2025-11-02,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,820,USD,2025-11-16,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,828,USD,2025-11-30,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,836,USD,2025-12-14,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,844,USD,2025-12-28,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,852,USD,2026-01-11,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,860,USD,2026-01-25,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,868,USD,2026-02-08,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,876,USD,2026-02-22,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,884,USD,2026-03-08,csv
+DXB-LHR,Emirates,2026-04-05,22:30,06:45,7h 15m,Airbus A380,Economy,892,USD,2026-03-22,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,260,USD,2025-11-12,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,262,USD,2025-11-26,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,265,USD,2025-12-10,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,268,USD,2025-12-24,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,270,USD,2026-01-07,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,273,USD,2026-01-21,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,276,USD,2026-02-04,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,279,USD,2026-02-18,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,282,USD,2026-03-04,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,285,USD,2026-03-18,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,288,USD,2026-04-01,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,292,USD,2026-04-15,csv
+KHI-DXB,Pakistan International Airlines,2026-05-12,16:45,19:20,2h 35m,Airbus A320,Economy,296,USD,2026-04-29,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,500,USD,2025-12-18,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,505,USD,2026-01-01,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,510,USD,2026-01-15,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,515,USD,2026-01-29,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,520,USD,2026-02-12,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,525,USD,2026-02-26,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,530,USD,2026-03-12,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,535,USD,2026-03-26,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,540,USD,2026-04-09,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,545,USD,2026-04-23,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,550,USD,2026-05-07,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,555,USD,2026-05-21,csv
+ISB-KUL,Malaysia Airlines,2026-06-18,01:30,10:15,5h 45m,Boeing 737,Economy,560,USD,2026-06-04,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,400,USD,2026-01-25,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,405,USD,2026-02-08,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,410,USD,2026-02-22,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,415,USD,2026-03-07,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,420,USD,2026-03-21,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,425,USD,2026-04-04,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,430,USD,2026-04-18,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,435,USD,2026-05-02,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,440,USD,2026-05-16,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,445,USD,2026-05-30,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,450,USD,2026-06-13,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,455,USD,2026-06-27,csv
+BKK-NRT,Thai Airways,2026-07-25,09:15,16:30,5h 15m,Boeing 777,Economy,460,USD,2026-07-11,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,360,USD,2026-02-28,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,365,USD,2026-03-14,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,370,USD,2026-03-28,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,375,USD,2026-04-11,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,380,USD,2026-04-25,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,385,USD,2026-05-09,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,390,USD,2026-05-23,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,395,USD,2026-06-06,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,400,USD,2026-06-20,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,405,USD,2026-07-04,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,410,USD,2026-07-18,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,415,USD,2026-08-01,csv
+LHE-JED,Saudia,2026-08-30,12:00,16:15,4h 15m,Boeing 787,Economy,420,USD,2026-08-15,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,720,USD,2026-03-14,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,725,USD,2026-03-28,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,730,USD,2026-04-11,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,735,USD,2026-04-25,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,740,USD,2026-05-09,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,745,USD,2026-05-23,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,750,USD,2026-06-06,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,755,USD,2026-06-20,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,760,USD,2026-07-04,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,765,USD,2026-07-18,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,770,USD,2026-08-01,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,775,USD,2026-08-15,csv
+SIN-SYD,Singapore Airlines,2026-09-14,23:55,09:30,7h 35m,Airbus A350,Economy,780,USD,2026-08-29,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,650,USD,2026-04-22,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,655,USD,2026-05-06,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,660,USD,2026-05-20,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,665,USD,2026-06-03,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,670,USD,2026-06-17,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,675,USD,2026-07-01,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,680,USD,2026-07-15,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,685,USD,2026-07-29,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,690,USD,2026-08-12,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,695,USD,2026-08-26,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,700,USD,2026-09-09,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,705,USD,2026-09-23,csv
+DXB-CDG,Emirates,2026-10-22,14:20,19:45,7h 25m,Airbus A380,Economy,710,USD,2026-10-07,csv
