@@ -112,3 +112,6 @@ frontend/
 
 Before running the backend, **make sure to configure your MongoDB server and port** in `backend/config.js` according to your local setup.
 This is required for the backend to connect successfully to the database.
+
+THE EXECUTION SCREENSHOTS ARE IN CODEBASE
+
