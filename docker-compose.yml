@@ -1,0 +1,48 @@
+
+services:
+  mongodb:
+    image: mongo:6
+    container_name: flight-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - flight-network
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: flight-backend
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGODB_URI=mongodb://mongodb:27017/flight-price-tracker
+      - NODE_ENV=production
+      - PORT=3000
+    depends_on:
+      - mongodb
+    networks:
+      - flight-network
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: flight-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - flight-network
+    restart: unless-stopped
+
+networks:
+  flight-network:
+    driver: bridge
+
+volumes:
+  mongodb_data:
